@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">sinkTester</string>
+
+
+    <string name="wireless_projection">Wireless Projection</string>
+    <string name="encrypted_access">Access With Password</string>
+    <string name="password">Password</string>
+    <string name="introduce_content">Project content from your phone to this display TV.</string>
+    <string name="network_name">Network</string>
+    <string name="television_name">TV</string>
+
+    <string name="please_input_pwd">Please enter a six-digit password</string>
+    <string name="only_letters_numbers">The password only supports letters and numbers.</string>
+    <string name="change_password">Change password</string>
+    <string name="input_pwd_on_phone">Enter this password on your phone to start projection.</string>
+    <string name="cancel">Cancel</string>
+    <string name="sure">OK</string>
+
+    <string name="pin_code">Wireless projection connection code</string>
+    <string name="device_unavailable">Error: device name unavailable.</string>
+
+    <string name="want_to_connect"> wants to connect to your TV</string>
+    <string name="reject">Reject</string>
+    <string name="allow_this_time">Allow this time</string>
+    <string name="always_allow">Always allow</string>
+
+    <string name="input_digits">Enter 6 digits</string>
+    <string name="contain_digits">The password can contain only letters and digits</string>
+</resources>
