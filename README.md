@@ -1,18 +1,18 @@
-Cast+ Kit Demo
+Cast Engine Demo
 ==============================
 
-This project integrates HUAWEI Cast+ Kit capabilities, which enable fast, stable, and low-latency collaboration between mobile 
+This project integrates HUAWEI Cast Engine capabilities, which enable fast, stable, and low-latency collaboration between mobile
 phones and external display devices, delivering a seamless, cross-device collaborative experience.
 
 Introduction
 ------------
 
-- [Read more about Cast+ kit](https://developer.huawei.com/consumer/cn/doc/development/connectivity-Guides/castpluskit-introduction)
+- [Read more about Cast Engine](https://developer.huawei.com/consumer/en/doc/development/connectivity-Guides/introduction-0000001052079408)
 
 Getting Started
 ---------------
 
-- [Add Cast+ kit to your Android Project](https://developer.huawei.com/consumer/cn/doc/development/connectivity-Guides/castpluskit-guide)
+- [Add Cast Engine to your Android Project](https://developer.huawei.com/consumer/en/doc/development/connectivity-Guides/preparations-0000001051750226)
 - - Run the demo on a display device.
 
 Demo test

@@ -290,7 +290,7 @@ public class SinkTesterService extends Service {
             deviceName = mBluetoothAdapter.getName();
         }
         if(deviceName == null) {
-            deviceName = "CastPlusTestDevice";
+            deviceName = "CastEngineTestDevice";
         }
         Log.d(TAG, "getDeviceInfo(), name: " + deviceName);
         return new DeviceInfo(deviceName, DeviceInfo.TYPE_TV);
